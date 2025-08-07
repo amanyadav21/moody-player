@@ -41,5 +41,5 @@ app.use('/api', songRoutes);
 
 
 app.listen(3000, () => {
-    console.log('Server is start')
+    console.log('Server is start at 3000')
 })
